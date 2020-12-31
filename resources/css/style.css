@@ -623,6 +623,22 @@ input[type=checkbox] {
     margin: 10px 5px 10px 0;
 }
 
+.form-messages {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.success {
+    background-color: rgba(39, 198, 70, 0.8);
+}
+
+.error {
+    background-color: rgba(211, 8, 8, 0.8);
+}
+
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* FOOTER */
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
